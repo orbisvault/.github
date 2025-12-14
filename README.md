@@ -1,4 +1,5 @@
 # Orbis Vault
 
-Orbis = isolated worlds/spaces
-Vault = secure local storage
+**Orbis** = isolated worlds/spaces
+
+**Vault** = secure local storage
